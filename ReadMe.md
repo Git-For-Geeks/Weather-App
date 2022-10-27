@@ -4,8 +4,8 @@ Git-For-Geeks is an open source contribution event conducted by Geeks-for-Geeks 
 
 **Make some awesome projects, put them in your directory and create a pull request.**
 
-- • Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
-- • Celebrate Git-For-Geeks by getting involved in the open source community by completing some simple tasks in this project.
+- Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+- Celebrate Git-For-Geeks by getting involved in the open source community by completing some simple tasks in this project.
 - This repository is open to all members of the GitHub community. Any member may contribute to this project.
 
 # Problem Statement: Weather App
@@ -16,7 +16,7 @@ Change the UI of the Weather app. The current UI is shown below, change the UI a
 
 - Fork the repository
 - Clone the Forked Repository
-- • Choose a Problem statement from this Javascript Repository and provide a solution in any programming language of your choice.
+- Choose a Problem statement from this Javascript Repository and provide a solution in any programming language of your choice.
 - Add your solution to the folder, along with the problem statement.
 - Now, you are ready to make a pull request.
 
