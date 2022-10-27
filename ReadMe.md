@@ -1,4 +1,6 @@
-# ReadMe
+<img src="https://images.macrumors.com/t/p1GEgEi3DylyV8R3Ek1C2MO9qyM=/800x0/article-new/2021/08/iOS-15-Weather-Feature.jpg?lossy"/> 
+
+# Weather app
 
 Git-For-Geeks is an open source contribution event conducted by Geeks-for-Geeks Chapter of **Shri Ramdeobaba College of Engineering and Management, Nagpur**.
 
