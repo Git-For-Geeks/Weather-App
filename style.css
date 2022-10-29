@@ -19,6 +19,7 @@ button
     position: relative;
     height: 40px;
 }
+
 span
 {
     display: inline;
@@ -92,7 +93,7 @@ input
 }
 body
 {
-    background: url("/images/default.jpg");
+    background: url("/images/newimg.jpeg");
     /* background-position: center; */
     background-repeat: no-repeat;
     background-size: cover;
